@@ -1,0 +1,25 @@
+# Ignore the following Unity files and folders
+
+# User-specific files
+*.user
+*.userprefs
+
+# Build results
+/build/
+/Build/
+/builds/
+
+# Temporary files
+/Temp/
+/obj/
+/bin/
+
+# Unity cache files
+/Library/
+/Logs/
+
+# Asset Store packages
+/Assets/AssetStore/
+
+# Uncomment this if you have settings that need to be shared between teammates (e.g., IDE configurations)
+# .idea/
